@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El Tequito</string>
+    <string name="food_category_nachos">Nachos</string>
+
+    <!--bottom menu strings-->
+    <string name="bottom_menu_food">Essen</string>
+    <string name="bottom_menu_drink">Getränke</string>
+    <string name="bottom_menu_order_list">Bestell Liste</string>
+
+</resources>

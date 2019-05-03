@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_karte"
+        android:enabled="true"
+        android:icon="@mipmap/icon_food_192"
+        android:title="Karte"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_BestellList"
+        android:enabled="true"
+        android:icon="@mipmap/icon_192"
+        android:title="Bestell List"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/einstellungen"
+        android:enabled="true"
+        android:icon="@mipmap/icon_order_192"
+        android:title="Einstellungen"
+        app:showAsAction="ifRoom" />
+</menu>

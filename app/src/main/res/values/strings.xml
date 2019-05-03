@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">El Tequito</string>
+    <string name="food_category_nachos">Nachos</string>
+
+    <!--bottom menu strings-->
+    <string name="bottom_menu_food">Foods</string>
+    <string name="bottom_menu_drink">Drinks</string>
+    <string name="bottom_menu_order_list">Order List</string>
+</resources>
