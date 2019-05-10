@@ -8,4 +8,6 @@
     <string name="bottom_menu_drink">Getränke</string>
     <string name="bottom_menu_order_list">Bestell Liste</string>
 
+    <string name="action_settings">Einstellungen</string>
+
 </resources>

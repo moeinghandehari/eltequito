@@ -3,23 +3,24 @@
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
-        android:id="@+id/action_karte"
+        android:id="@+id/action_foods"
         android:enabled="true"
         android:icon="@mipmap/icon_food_192"
         android:title="Karte"
         app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/action_BestellList"
+        android:id="@+id/action_drinks"
         android:enabled="true"
-        android:icon="@mipmap/icon_192"
+        android:icon="@drawable/drink_general_icon"
         android:title="Bestell List"
         app:showAsAction="ifRoom" />
 
     <item
-        android:id="@+id/einstellungen"
+        android:id="@+id/order_list"
         android:enabled="true"
         android:icon="@mipmap/icon_order_192"
         android:title="Einstellungen"
         app:showAsAction="ifRoom" />
+
 </menu>
